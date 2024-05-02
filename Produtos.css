@@ -1,0 +1,69 @@
+body { 
+    background-color: aliceblue;
+}
+header{
+background:blue;
+}
+
+nav li {
+    display: inline;
+}
+nav {  
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold; 
+    text-decoration: none;
+    font-size: 22px;
+    margin: 0 0 0  20px;}
+ .caixa{ position: relative;
+    width: 940px;
+    margin: 0% auto;
+
+
+ }
+ .produtos{
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
+ }
+.produtos li{
+display:inline-block;
+text-align: center;
+width:30%;
+vertical-align: top;
+border: 5px  solid blue;
+border-radius: 50px;
+}
+    .produtos h2{
+     font-size: 25px;
+     font-weight: bold;
+
+    }
+    .produto_preco{
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .produto_descricao{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    nav a:hover{
+        border-color: rgb(156, 156, 72);
+  }
+  
+  .produtos li:hover h2 {
+     font-size: 40px;
+  }
+  
+    footer{background: url("bg.jpg");
+        text-align: center;
+        padding: 20px 0;
+
+
+    }
+footer p{color: aliceblue;}
