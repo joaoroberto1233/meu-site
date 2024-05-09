@@ -1,25 +1,19 @@
-body{
+body {
     background-color: black;
-    color:white;
+    color: white;
 }
 
 h1 {
     color: F6F6F6;
 }
-.button{
+
+.button {
     width: 40%;
-padding: 15px 0;
-background: blue;
-color: aliceblue;
-font-weight: bold;
-font-size: 18px;
-border: none;
-border-radius: 5px;
-    }
-
-
-
-
-
-
-
+    padding: 15px 25px;
+    background: blue;
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
