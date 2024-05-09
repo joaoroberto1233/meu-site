@@ -7,7 +7,7 @@ h1 {
     color: F6F6F6;
 }
 .button{
-    padding:0 0 5 ;
+    padding: 15px 25px; 
     display:inline-block;
     text-align: center;
     width:30%;
