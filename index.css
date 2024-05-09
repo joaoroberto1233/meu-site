@@ -1,22 +1,9 @@
-<!DOCTYPE html>
-<html>
+body{
+    background-color: black;
+    color:white;
+}
 
-<head>
-    <title>Barbearia</title>
-    <link rel="styesheet" href="index.css">
-</head>
+h1 {
+    color: F6F6F6;
+}
 
-<body>
-
-    <main>
-        <img id="img-principal" src="BARBERSHOP.webp" width="800" heigth="600">
-
-        <div>
-            <a href="/index.html">home</a>
-            <a href='https://istagram.com'>instagram</a>
-            <a href="">GitHub</a>
-        </div>
-
-        <div id="conteudo principal">
-            <h1> sobre a Barbearia MATHEUS</h1>
-            <p><strong><em>Localizada><P>
